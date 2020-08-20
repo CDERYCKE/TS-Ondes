@@ -1,2 +1,2 @@
-# TSPE
-fichiers pour la spé physique en terminale
+# TSPE - Ondes et signaux
+Jupyter Notebooks pour la spé physique en terminale
